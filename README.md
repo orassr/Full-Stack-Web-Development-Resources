@@ -16,6 +16,13 @@ Books | Subject | Author | Pages | Year | Prerequisites | Rate
 [Entity Framework Core In Action](https://www.manning.com/books/entity-framework-core-in-action) | Entity Framework Core | Jon P Smith | 462 | 2018 | Entity Framework | Excellent |
 [ASP.NET Core Application Development](https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061) | ASP.NET Core | James Chambers | 486 | 2016 | .NET | Good |
 
+## Client Side(Front-end)
+Technology | Subject | Rate  
+:-- | :--: | :--: 
+[Angular](https://angular.io/) | [Base Use](https://angular.io/tutorial) | Excellent
+[MDBootstrap](https://mdbootstrap.com/) | [Base Use](https://mdbootstrap.com/docs/angular/) | Good |
+[Angular Material](https://material.angular.io/) | [Base Use](https://material.angular.io/components/categories) | Very Good |
+
 ## Design Patterns
 Books | Subject | Author | Pages | Year | Prerequisites | Rate
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
