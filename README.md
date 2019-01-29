@@ -24,11 +24,15 @@ Technology | Subject | Rate
 [MDBootstrap](https://mdbootstrap.com/) | [Base Use](https://mdbootstrap.com/docs/angular/) | Good |
 [Angular Material](https://material.angular.io/) | [Base Use](https://material.angular.io/components/categories) | Very Good |
 
+## Software Architecture
 ## Design Patterns
 Books | Subject | Author | Pages | Year | Prerequisites | Rate
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1548796859&sr=8-1&keywords=domain+driven+design+eric+evans) | Domain-Driven Design | Eric Evans | 560 | 2003 | Design Patterns | Excellent |
+[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) | Design Patterns | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch | 395  | 1994 | Design Patterns | Very Good |
 
+
+## Operating Systems
 ## Linux
 Books | Subject | Author | Pages | Year | Prerequisites | Rate
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
