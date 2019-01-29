@@ -17,6 +17,7 @@ Books | Subject | Author | Pages | Year | Prerequisites | Rate
 [ASP.NET Core Application Development](https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061) | ASP.NET Core | James Chambers | 486 | 2016 | .NET | Good |
 
 ## Client Side(Front-end)
+## Angular
 Technology | Subject | Rate  
 :-- | :--: | :--: 
 [Angular](https://angular.io/) | [Base Use](https://angular.io/tutorial) | Excellent
