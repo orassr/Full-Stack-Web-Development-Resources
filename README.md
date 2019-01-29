@@ -2,7 +2,7 @@
 
 A list of my favorite languages, frameworks and technologies
 
-## Server side 
+# Server side 
 
 ## C# language
 Books | Subject | Author | Pages | Year | Prerequisites | Rate
@@ -16,7 +16,7 @@ Books | Subject | Author | Pages | Year | Prerequisites | Rate
 [Entity Framework Core In Action](https://www.manning.com/books/entity-framework-core-in-action) | Entity Framework Core | Jon P Smith | 462 | 2018 | Entity Framework | Excellent |
 [ASP.NET Core Application Development](https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061) | ASP.NET Core | James Chambers | 486 | 2016 | .NET | Good |
 
-## Client Side(Front-end)
+# Client Side(Front-end)
 ## Angular
 Technology | Subject | Rate  
 :-- | :--: | :--: 
