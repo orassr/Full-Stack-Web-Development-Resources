@@ -46,6 +46,7 @@ Books | Subject | Author | Pages | Year | Prerequisites | Rate
 
 ## Software, IDE And Services
 ## IDE
-Name | 
+Name |
+:-- |edit 
 [Visual Studio Code](https://code.visualstudio.com/download)
 [Visual Studio - Community Edition](https://visualstudio.microsoft.com/downloads/)
