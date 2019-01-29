@@ -1,8 +1,9 @@
 # Documented resources for my working environment
 
-A list of my favorite languages, frameworks and technologies
+A list of my favorite languages, frameworks and technologies I use.
+Hope you find this information useful :)
 
-# Server side 
+# Server Side 
 
 ## C# language
 Books | Subject | Author | Pages | Year | Prerequisites | Rate
