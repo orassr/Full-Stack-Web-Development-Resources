@@ -43,3 +43,9 @@ Books | Subject | Author | Pages | Year | Prerequisites | Rate
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [A Practical Guide to Linux Commands, Editors, and Shell Programming (4th Edition) ](https://www.amazon.com/Practical-Guide-Commands-Editors-Programming/dp/0134774604) | Linux | Mark G Sobell | 261 | 2017 | Linux | Very Good |
 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.oreilly.com/library/view/linux-pocket-guide/9781491927557/) | Linux | Daniel J. Barrett | 560 | 2016 | - | Excellent |
+
+## Software, IDE And Services
+## IDE
+Name | 
+[Visual Studio Code](https://code.visualstudio.com/download)
+[Visual Studio - Community Edition](https://visualstudio.microsoft.com/downloads/)
