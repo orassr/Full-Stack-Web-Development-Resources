@@ -14,3 +14,8 @@ Books | Subject | Author | Pages | Year | Prerequisites | Rate
 Books | Subject | Author | Pages | Year | Prerequisites | Rate
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Entity Framework Core In Action](https://www.manning.com/books/entity-framework-core-in-action) | Entity Framework Core | Jon P Smith | 486 | 2018 | Entity Framework | Excellent |
+
+## Design Patterns
+Books | Subject | Author | Pages | Year | Prerequisites | Rate
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1548796859&sr=8-1&keywords=domain+driven+design+eric+evans) | Domain-Driven Design | Eric Evans | 560 | 2003 | Design Patterns | Excellent |
