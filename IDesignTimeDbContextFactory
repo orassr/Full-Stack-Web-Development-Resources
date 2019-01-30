@@ -1,0 +1,31 @@
+PROBLEM:
+Your DbContext in a separate project – class library project.
+You are trying to add new migration and update database, and you are running into this error:
+Unable to create an object of type ‘CodingBlastDbContext’. Add an implementation of ‘IDesignTimeDbContextFactory’ to the project.
+SOLUTION:
+This interface has to be implemented,
+You can add a class that implements IDesignTimeDbContextFactory inside of your Web project.
+REQUIRED: Nuget: Microsoft.Extensions.Configuration.Json for the .SetBasePath()
+
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
+using System.IO;
+
+-create a new file under the .Data project and name it:  SampleContextFactory.cs
+
+    public class SampleContextFactory : IDesignTimeDbContextFactory<MyDbContext>
+    {
+        public MyDbContext CreateDbContext(string[] args)
+        {
+            IConfigurationRoot configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json")
+                .Build();
+        
+            var builder = new DbContextOptionsBuilder<MyDbContext>();
+            var connectionString = configuration.GetConnectionString("DefaultConnection");
+            builder.UseSqlServer(connectionString);
+            return new MyDbContext(builder.Options);
+        }
+    }
