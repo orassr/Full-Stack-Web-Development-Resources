@@ -1,7 +1,8 @@
-# Documented resources for my working environment
+# Documented Resources For My Working Environment
 
 A list of my favorite languages, frameworks and technologies I use.
 Hope you find this information useful :)
+Tracking issues I had and ways of dealing with.
 
 # Server Side 
 
