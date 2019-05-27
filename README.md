@@ -57,5 +57,5 @@ Name
 ## Xamarin
 Bugs | Libraries
 :--  | :--: |
-[App Transport Security (ATS)] | (https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/ats#optout)
-[XamarinMediaManager] | (https://github.com/martijn00/XamarinMediaManager)
+App Transport Security (ATS) | (https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/ats#optout)
+XamarinMediaManager | (https://github.com/martijn00/XamarinMediaManager)
