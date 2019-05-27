@@ -55,9 +55,7 @@ Name
 
 ## Xamarin, Bugs And Projects
 ## Xamarin
-Bugs 
+Bugs | Libraries
 :--  | :--: |
 [App Transport Security (ATS)] | (https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/ats#optout)
-Libraries 
-:--
 [XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager)
