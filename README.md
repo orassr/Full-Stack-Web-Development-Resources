@@ -58,4 +58,4 @@ Name
 Bugs | Libraries
 :--  | :--: |
 [App Transport Security (ATS)] | (https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/ats#optout)
-[XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager)
+[XamarinMediaManager] | (https://github.com/martijn00/XamarinMediaManager)
