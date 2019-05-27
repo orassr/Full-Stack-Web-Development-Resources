@@ -52,3 +52,12 @@ Name
 :--  
 [Visual Studio Code](https://code.visualstudio.com/download)
 [Visual Studio - Community Edition](https://visualstudio.microsoft.com/downloads/)
+
+## Xamarin, Bugs And Projects
+## Xamarin
+Bugs 
+:--  
+[App Transport Security (ATS)](https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/ats#optout)
+Libraries 
+:--
+[XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager)
