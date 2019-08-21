@@ -61,7 +61,7 @@ App Transport Security (ATS) | https://docs.microsoft.com/en-us/xamarin/ios/app-
 XamarinMediaManager | https://github.com/martijn00/XamarinMediaManager
 
 ## C# Topics, Objects classes and related
-## Xamarin
+## Queue
 Topic | Resources | Description
 :--  | :--: | :--:
 Queue Class | https://www.geeksforgeeks.org/c-sharp-queue-class/ | Explanation
