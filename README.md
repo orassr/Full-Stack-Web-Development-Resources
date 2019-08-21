@@ -59,3 +59,10 @@ Bugs | Libraries
 :--  | :--: |
 App Transport Security (ATS) | https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/ats#optout
 XamarinMediaManager | https://github.com/martijn00/XamarinMediaManager
+
+## C# Topics, Objects classes and related
+## Xamarin
+Topic | Resources | Description
+:--  | :--: | :--:
+Queue Class | https://www.geeksforgeeks.org/c-sharp-queue-class/ | Explanation
+Queue  | https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1?view=netframework-4.8 | Queue<T> Microsoft documentation 
