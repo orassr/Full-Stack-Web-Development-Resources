@@ -59,6 +59,7 @@ Bugs | Libraries
 :--  | :--: |
 App Transport Security (ATS) | https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/ats#optout
 XamarinMediaManager | https://github.com/martijn00/XamarinMediaManager
+Use Local Host | http://applications.lt/localhost-for-xamarin/
 
 ## C# Topics, Objects classes and related
 ## Queue
